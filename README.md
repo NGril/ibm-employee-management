@@ -1,6 +1,6 @@
 # ibm-employee-management
 
-Sample employee management application.
+Sample employee management application built using Spring Boot (bootstraped using [Spring Initializr](https://start.spring.io/)).
 
 ## Requirements
 
