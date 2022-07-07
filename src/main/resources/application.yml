@@ -6,3 +6,6 @@ spring:
     show-sql: false
     hibernate:
       ddl-auto: none
+
+logging.pattern.console: "%d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) %logger.%M - %msg%n"
+logging.level.root: info
